@@ -3,7 +3,7 @@
 NOTE: *We DO NOT add leetcode problems. They are just applications of basic principles that can be found in other algorithms included in the repository.*
 
 ### Did you find a bug?
-
+ 
 **Ensure the bug was not already reported** by searching on GitHub under [Project Issues](https://github.com/TheAlgorithms/Java/issues).
   - If it is mentioned in the issues and you want to fix it, [fork](https://github.com/TheAlgorithms/Java/fork) the repository and submit your implementation in a pull request. The project maintainers will evaluate it.
   - If the bug is **NOT** mentioned in the issues, [open a new issue](https://github.com/TheAlgorithms/Java/issues/new). Be sure to include a **title**, a clear **description** and a **test case** demonstrating the expected behavior that is not occurring.
